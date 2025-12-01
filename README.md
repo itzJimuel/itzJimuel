@@ -1,72 +1,94 @@
-<!-- 💫 Welcome banner -->
-<div align="center">
-  <img src="https://your-banner-image.url/banner.svg" alt="Welcome banner" width="100%" />
-</div>
+<!--
+  ─────────────────────────────────────────────────────────────────────────────
+  🛠️  Profile README for itzJimuel — Customize as you like
+  ─────────────────────────────────────────────────────────────────────────────
+-->
 
-# Hi there, I’m **Jimuel-Amuto** 👋  
-> A passionate Software Developer & Machine Learning enthusiast from Makati, Philippines.  
+<p align="center">
+  <!-- Optional: header/banner image (replace URL below) -->
+  <img src="https://your-domain.com/path-to-your-banner.png" alt="Banner image for itzJimuel" width="100%" />
+</p>
 
----
+<h1 align="center">Hi 👋, I’m <strong>Jimuel “itzJimuel” Amuto</strong></h1>
 
-## 💻 About Me  
-- 🔭 I’m currently working on **Python & Flutter/Dart** projects — from UI components to ML classification systems.  
-- 🌱 I’m learning and experimenting with **Machine Learning, Mobile UI, and Cross-Platform App Development**.  
-- 🐶 Fun fact: I have a 🐕 German Shepherd as a companion — so yes, I know something about loyalty and hard work!  
-- 🧠 I love to learn, build, and collaborate — especially on open-source projects or interesting side-projects.  
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-| Language / Framework | Usage Level |
-|----------------------|-------------|
-| **Python**           | 🟩🟩🟩🟩🟩       |
-| **Dart / Flutter**   | 🟩🟩🟩🟩       |
-| **Machine Learning / Data Science** | 🟩🟩🟩       |
-| **Git & GitHub**     | 🟩🟩🟩🟩🟩       |
-| **Other Tools / Libraries** | Depends on project  |
-
-> *(You can replace “🟩” blocks with badge icons if you prefer more visual styling.)*
+<p align="center">
+  <a href="https://github.com/itzJimuel" target="_blank">✨ GitHub</a> • 
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> • 
+  <a href="https://your-portfolio.url" target="_blank">Portfolio</a> • 
+  <a href="mailto:your.email@example.com">Email</a>
+</p>
 
 ---
 
-## 🌟 Selected Projects  
+## 🚀 About Me
 
-Here are a few of my repositories that I’m proud of:
+I’m a software developer with interests in **Flutter UI**, **Machine Learning / Data Science**, and **Python projects**.  
+I enjoy building clean, efficient code and exploring different domains — from mobile UI components to ML model creation.  
+I believe in continuous learning, open-source collaboration, and writing readable code.  
 
-| Repository | Description |
-|------------|-------------|
-| **`AMUTO_CarBrandLogos_Classification_FinalProject`** | A ML-based image classification project — classifying car brand logos. |
-| **`Flutter_Widget_UIComponents`** | A collection of reusable UI components built with Flutter/Dart. |
-| **`Machine-Learning-Model-Creation`** | Prototypes and experiments in data processing & ML model building (Python). |
-| **`AMUTO_IT120_Act1`** | Course-based project showcasing coding fundamentals and problem solving (Python). |
-
-> 💡 *Tip:* You can pin your top 4–6 repos so visitors see them first — helps showcase your best work quickly.  
-
----
-
-## 📫 Contact & Socials  
-
-| Platform | Link |
-|----------|------|
-| GitHub   | [github.com/itzJimuel](https://github.com/itzJimuel) |
-| Email    | your-email@example.com |
-| LinkedIn | [linkedin.com/in/your-profile](https://www.linkedin.com/) *(optional)* |
-| Portfolio / Blog | [your-portfolio.url](https://your-portfolio.url) *(optional)* |
+- 🔭 I’m currently building **UI & ML projects** using **Flutter**, **Dart**, and **Python**.  
+- 🌱 I’m always learning **new frameworks, design patterns, and ML techniques**.  
+- 💬 Ask me about **UI design**, **classification ML**, or **cross-platform dev**.  
+- 📫 How to reach me: via GitHub issues or email (see contact links above).  
+- ⚡ Fun fact: I love turning cool ideas into code — whether it's a simple UI widget or a full ML pipeline.  
 
 ---
 
-## 🎯 Goals  
+## 🧰 What I Use / Tech Stack
 
-- Contribute to open-source ML or Flutter projects.  
-- Build a cross-platform mobile app using Flutter + backend in Python.  
-- Continuously learn — new frameworks, design patterns, best coding practices.  
-- Keep my GitHub active and clean: well-documented repos, clear folder structure, readable code.  
+| 🧑‍💻 Language / Framework | 🔧 Tools / Libraries |
+|--------------------------|----------------------|
+| Dart / Flutter           | Flutter SDK, Dart packages |
+| Python                   | NumPy, Pandas, scikit-learn, TensorFlow / PyTorch |
+| JavaScript / TypeScript  | (if any web projects — mention here) |
+| Git & GitHub             | Version control / collaboration |
+| Other tools              | VS Code, Jupyter Notebook / VS Code + ML tooling |
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — sometimes a helpful reminder to write clean, self-documenting code 😄  
+## 📂 Highlights / Notable Repositories
+
+Here are a few projects I'm particularly proud of:
+
+| Project | Tech / Domain | What it does |
+|--------|----------------|--------------|
+| **Flutter_Widget_UIComponents** | Flutter / Dart | A collection of reusable UI components/widgets. |
+| **Machine-Learning-Model-Creation** | Python / ML | ML pipelines & model creation for classification tasks. |
+| **AMUTO_CarBrandLogos_Classification_FinalProject** | Python / ML CV | A classification project — logo classification of car brands. |
+| **AMUTO_IT120_Act1** | Python | (Add short description of what this project is about) |
+| **Jimuel-Amuto (repo name)** | (whatever domain) | (A brief summary what this repository holds) |
+
+> *Tip: Include links (URL) to repos, and add short one-liner descriptions. You can highlight 3–5 best or latest ones to keep README concise and meaningful.*
 
 ---
 
-Thanks for stopping by — feel free to connect if you see something interesting!  
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <!-- GitHub readme-stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=itzJimuel&show_icons=true&theme=dark" alt="GitHub Stats" />
+  
+  <!-- Top Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzJimuel&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 What I'm Learning & Looking For
+
+- Learning advanced **UI/UX design** for mobile and web apps.  
+- Improving skills in **ML model optimization**, **data preprocessing**, and **deployment**.  
+- Open to **collaborating** on **open-source projects**, especially around UI design or ML tools.  
+- Always up for **mentorship**, **team projects**, or **building something useful** together.  
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to reach out if you want to:
+
+- Collaborate on **open-source**, **Flutter UI**, or **ML** work  
+- Discuss coding, design, or potential projects  
+- Exchange knowledge or just say hi  
+
+Thanks for visiting — hope to build something awesome together! 🚀
