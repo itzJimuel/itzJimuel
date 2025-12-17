@@ -19,13 +19,11 @@
 
 ## 🚀 About Me
 
-I’m a student at Caraga State University Cabadbaran Campus with interests in Flutter UI,Machine Learning, and Python projects.  
+I’m a 3rd year student at Caraga State University Cabadbaran Campus with interests in Flutter UI,Machine Learning, and Python projects.  
 I enjoy building clean, efficient code and exploring different domains — from mobile UI components to ML model creation.  
 I believe in continuous learning, open-source collaboration, and writing readable code.  
 
-- 🔭 I’m currently building **UI & ML projects** using **Flutter**, **Dart**, and **Python**.  
-- 🌱 I’m always learning **new frameworks, design patterns, and ML techniques**.  
-- 💬 Ask me about **UI design**, **classification ML**, or **cross-platform dev**.  
+- 🔭 I’m currently building **UI & ML projects** using **Flutter**, **Dart**, and **Python**.    
 - 📫 How to reach me: via GitHub issues or email (see contact links above).  
 - ⚡ Fun fact: I love turning cool ideas into code — whether it's a simple UI widget or a full ML pipeline.  
 
@@ -36,10 +34,9 @@ I believe in continuous learning, open-source collaboration, and writing readabl
 | 🧑‍💻 Language / Framework | 🔧 Tools / Libraries |
 |--------------------------|----------------------|
 | Dart / Flutter           | Flutter SDK, Dart packages |
-| Python                   | NumPy, Pandas, scikit-learn, TensorFlow / PyTorch |
-| JavaScript / TypeScript  | (if any web projects — mention here) |
+| Python                   | NumPy,TensorFlow 
 | Git & GitHub             | Version control / collaboration |
-| Other tools              | VS Code, Jupyter Notebook / VS Code + ML tooling |
+| Other tools              | VS Code,  |
 
 ---
 
