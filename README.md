@@ -4,10 +4,7 @@
   ─────────────────────────────────────────────────────────────────────────────
 -->
 
-<p align="center">
-  <!-- Optional: header/banner image (replace URL below) -->
-  <img src="https://your-domain.com/path-to-your-banner.png" alt="Banner image for itzJimuel" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I’m <strong>Jimuel “itzJimuel” Amuto</strong></h1>
 
@@ -22,7 +19,7 @@
 
 ## 🚀 About Me
 
-I’m a software developer with interests in **Flutter UI**, **Machine Learning / Data Science**, and **Python projects**.  
+I’m a student at Caraga State University Cabadbaran Campus with interests in Flutter UI,Machine Learning, and Python projects.  
 I enjoy building clean, efficient code and exploring different domains — from mobile UI components to ML model creation.  
 I believe in continuous learning, open-source collaboration, and writing readable code.  
 
