@@ -1,88 +1,86 @@
-<!--
-  ─────────────────────────────────────────────────────────────────────────────
-  🛠️  Profile README for itzJimuel — Customize as you like
-  ─────────────────────────────────────────────────────────────────────────────
--->
+<!-- Profile README for itzJimuel -->
 
-
-
-<h1 align="center">Hi 👋, I’m <strong>Jimuel “itzJimuel” Amuto</strong></h1>
+<h1 align="center">Hi 👋, I'm Jimuel "itzJimuel" Amuto</h1>
 
 <p align="center">
-  <a href="https://github.com/itzJimuel" target="_blank">✨ GitHub</a> • 
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> • 
-  <a href="https://your-portfolio.url" target="_blank">Portfolio</a> • 
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd+Year+IT+Student+%40+CSU+Cabadbaran;Flutter+UI+Developer;Machine+Learning+Enthusiast;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itzJimuel"><img src="https://img.shields.io/badge/GitHub-itzJimuel-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <!-- Replace YOUR-LINKEDIN and YOUR-EMAIL below, or delete the badges you don't need -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=itzJimuel&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a 3rd year student at Caraga State University Cabadbaran Campus with interests in Flutter UI,Machine Learning, and Python projects.  
-I enjoy building clean, efficient code and exploring different domains — from mobile UI components to ML model creation.  
-I believe in continuous learning, open-source collaboration, and writing readable code.  
+I'm a **3rd-year student at Caraga State University – Cabadbaran Campus**, focused on **Flutter UI** and **Machine Learning**.
+I like building clean, readable code — from reusable mobile widgets to full ML classification pipelines.
 
-- 🔭 I’m currently building **UI & ML projects** using **Flutter**, **Dart**, and **Python**.    
-- 📫 How to reach me: via GitHub issues or email (see contact links above).  
-- ⚡ Fun fact: I love turning cool ideas into code — whether it's a simple UI widget or a full ML pipeline.  
-
----
-
-## 🧰 What I Use / Tech Stack
-
-| 🧑‍💻 Language / Framework | 🔧 Tools / Libraries |
-|--------------------------|----------------------|
-| Dart / Flutter           | Flutter SDK, Dart packages |
-| Python                   | NumPy,TensorFlow 
-| Git & GitHub             | Version control / collaboration |
-| Other tools              | VS Code,  |
+- 🔭 Currently building **UI & ML projects** with **Flutter, Dart, and Python**
+- 🌱 Learning **UI/UX design**, **ML model optimization**, and **model deployment**
+- 🤝 Open to **open-source collaboration**, team projects, and mentorship
+- 📍 Based in **Caraga, Philippines**
+- ⚡ Fun fact: I love turning cool ideas into code — from a tiny widget to a full ML pipeline
 
 ---
 
-## 📂 Highlights / Notable Repositories
+## 🧰 Tech Stack
 
-Here are a few projects I'm particularly proud of:
+**Mobile & ML**
 
-| Project | Tech / Domain | What it does |
-|--------|----------------|--------------|
-| **Flutter_Widget_UIComponents** | Flutter / Dart | A collection of reusable UI components/widgets. |
-| **Machine-Learning-Model-Creation** | Python / ML | ML pipelines & model creation for classification tasks. |
-| **AMUTO_CarBrandLogos_Classification_FinalProject** | Python / ML CV | A classification project — logo classification of car brands. |
-| **AMUTO_IT120_Act1** | Python | (Add short description of what this project is about) |
-| **Jimuel-Amuto (repo name)** | (whatever domain) | (A brief summary what this repository holds) |
-
-> *Tip: Include links (URL) to repos, and add short one-liner descriptions. You can highlight 3–5 best or latest ones to keep README concise and meaningful.*
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <!-- GitHub readme-stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itzJimuel&show_icons=true&theme=dark" alt="GitHub Stats" />
-  
-  <!-- Top Languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzJimuel&layout=compact&theme=dark" alt="Top Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,tensorflow&theme=dark" alt="Flutter, Dart, Python, TensorFlow" />
 </p>
 
+**Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css&theme=dark" alt="PHP, JavaScript, HTML, CSS" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
+</p>
+
+Libraries: `NumPy` · `TensorFlow` · `Flutter SDK`
+
 ---
 
-## 🎯 What I'm Learning & Looking For
+## 📂 Featured Projects
 
-- Learning advanced **UI/UX design** for mobile and web apps.  
-- Improving skills in **ML model optimization**, **data preprocessing**, and **deployment**.  
-- Open to **collaborating** on **open-source projects**, especially around UI design or ML tools.  
-- Always up for **mentorship**, **team projects**, or **building something useful** together.  
+| Project | Tech | What it does |
+|---|---|---|
+| 🚗 [**Car Brand Logo Classification**](https://github.com/itzJimuel/AMUTO_CarBrandLogos_Classification_FinalProject) | Python · TensorFlow · Computer Vision | Image classifier that recognizes car brands from their logos (final project). |
+| 🧠 [**Machine-Learning-Model-Creation**](https://github.com/itzJimuel/Machine-Learning-Model-Creation) | Python · ML | End-to-end pipelines for building and training classification models. |
+| 📱 [**Flutter_Widget_UIComponents**](https://github.com/itzJimuel/Flutter_Widget_UIComponents) | Flutter · Dart | A collection of reusable, customizable Flutter UI widgets. |
+| 🐍 [**AMUTO_IT120_Act1**](https://github.com/itzJimuel/AMUTO_IT120_Act1) | Python | IT120 coursework activity. <!-- replace with a one-line description of what it does --> |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itzJimuel&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzJimuel&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itzJimuel&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-Feel free to reach out if you want to:
+Reach out if you want to collaborate on **Flutter UI**, **ML**, or **open-source** work — or just to say hi!
 
-- Collaborate on **open-source**, **Flutter UI**, or **ML** work  
-- Discuss coding, design, or potential projects  
-- Exchange knowledge or just say hi  
-
-Thanks for visiting — hope to build something awesome together! 🚀
+<p align="center"><i>Thanks for visiting — let's build something awesome together! 🚀</i></p>
