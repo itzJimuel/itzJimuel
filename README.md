@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year student at Caraga State University – Cabadbaran Campus**, focused on **Flutter UI** and **Machine Learning**.
+I'm a **4th-year student at Caraga State University – Cabadbaran Campus**, focused on **Web Designing** and **Machine Learning**.
 I like building clean, readable code — from reusable mobile widgets to full ML classification pipelines.
 
 - 🔭 Currently building **UI & ML projects** with **Flutter, Dart, and Python**
