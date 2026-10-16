@@ -10,9 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/itzJimuel"><img src="https://img.shields.io/badge/GitHub-itzJimuel-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <!-- Replace YOUR-LINKEDIN and YOUR-EMAIL below, or delete the badges you don't need -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="jimuelamuto@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://jimuel-amuto.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:jimuelamuto@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=itzJimuel&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views"/>
 </p>
 
