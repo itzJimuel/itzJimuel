@@ -62,7 +62,7 @@ Libraries: `NumPy` · `TensorFlow` · `Flutter SDK`
 | ⛪ [**Door of Hope ChMS**](https://github.com/itzJimuel/Door-of-Hope-ChMS) · [live site](https://doorofhopechms.vercel.app) | Next.js · React · TypeScript · Tailwind CSS · Supabase | Phone-friendly church management system with QR-code check-in, attendance tracking and a follow-up dashboard. |
 | 🏠 [**BoardingHub**](https://github.com/itzJimuel/ReadyFinalChecking) | PHP · MySQL · JavaScript | Boarding house & dormitory finder with search, room reservations, OTP verification and an admin panel. |
 | 🚗 [**Car Brand Logo Classifier**](https://github.com/itzJimuel/IT-120-Final-Project-GitHub-repository-Submission) · [demo video](https://www.youtube.com/watch?v=GtmuSy8X12s) | Flutter · TensorFlow Lite · Firebase | Recognizes 10 car brands from the camera or gallery using an on-device ML model. |
-| 📱 [**Flutter UI Components**](https://github.com/itzJimuel/Flutter_Widget_UIComponents) | Flutter · Dart | Reusable Flutter widgets: app bars, tabs, side drawers, floating action buttons and bottom navigation. |
+| 📱 [**Flutter UI Components**](https://github.com/itzJimuel/Flutter_Widget_UIComponents) | Flutter · Dart | Scaffold demo exploring tabs, side drawers, a bottom sheet, snackbars, an extended FAB and bottom navigation. |
 
 👉 See screenshots and more on my **[portfolio](https://jimuel-amuto.vercel.app)**.
 
